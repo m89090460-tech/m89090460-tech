@@ -1,21 +1,23 @@
+
 ## Hi there 👋 I'm Muxammadziyo-TechDev
 
 Welcome to my GitHub profile! I am an aspiring IT specialist passionate about technology, programming, and building digital solutions.
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on sharpening my coding skills and building personal projects.
-- 🌱 I’m currently learning full-stack development and modern IT technologies.
-- 👯 I’m looking to collaborate on open-source projects and interesting web applications.
-- 💬 Ask me about learning paths in IT, development tools, or tech trends.
-- 📫 How to reach me: You can contact me via my email or social links listed on my profile.
-- ⚡ Fun fact: "Code is my canvas, and terminal is my world."
+🔭 **I’m currently working on** sharpening my coding skills and building personal projects. *My main focus is creating clean, efficient code and developing real-world applications that solve everyday problems.*
+- 🌱 **I’m currently learning** full-stack development and modern IT technologies. *I love diving deep into how systems work under the hood, exploring both frontend aesthetics and backend logic.*
+- 👯 **I’m looking to collaborate on** open-source projects and interesting web applications. *I believe in teamwork and am always excited to join forces with other developers to build something meaningful.*
+- 💬 **Ask me about** learning paths in IT, development tools, or tech trends. *I'm always open to sharing my experiences, discussing new technologies, or helping fellow learners find the right resources.*
+- 📫 **How to reach me:** You can contact me via my email or social links listed on my profile. *Feel free to drop a message if you want to talk about coding, tech, or potential collaborations.*
+- ⚡ **Fun fact:** "Code is my canvas, and terminal is my world." *I find programming to be the perfect blend of logic and creativity, where blank screens turn into working systems.*
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** HTML, CSS, JavaScript, Python
-* **Tools:** Git, GitHub, VS Code
+
+* 🌐 **Languages:** **HTML5, CSS3, JavaScript (ES6+), Python.** *I use these to build interactive web interfaces and write clean backend scripts.*
+* 🧰 **Tools & Technologies:** **Git, GitHub, VS Code, Command Line.** *These are my essential daily tools for version control, efficient coding, and managing project workflows.*
 
 
 # 💻 Tech Stack:
@@ -24,6 +26,9 @@ Welcome to my GitHub profile! I am an aspiring IT specialist passionate about te
 ![](https://github-readme-stats.shion.dev/api?username=m89090460-tech&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=m89090460-tech&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=m89090460-tech&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<img width="1024" height="572" alt="GithubRepositoriesPicture" src="https://github.com/user-attachments/assets/c88266a9-41c4-4d97-af18-5fb6f8192837" />
 
 ---
 [![](https://komarev.com/ghpvc/?username=m89090460-tech&icon=2&color=0)](https://visitcount.itsvg.in)
