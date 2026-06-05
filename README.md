@@ -17,10 +17,3 @@ Welcome to my GitHub profile! I am an aspiring IT specialist passionate about te
 * **Languages:** HTML, CSS, JavaScript, Python
 * **Tools:** Git, GitHub, VS Code
 
----
-
-### 🎨 My Workspace Mood
-![My IT Workspace](https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1000&auto=format&fit=crop)
-
----
-*“The best way to predict the future is to invent it.” – Alan Kay*
